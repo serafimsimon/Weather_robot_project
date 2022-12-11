@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints />
+    <Git>
+        <PathToRepo>C:\Users\Инна\Documents\Primo\Weather_project\.git\</PathToRepo>
+    </Git>
+    <LastOpenedItems>
+        <string>C:\Users\Инна\Documents\Primo\Проект_Погода\Main.ltw</string>
+        <string>C:\Users\Инна\Documents\Primo\Weather_project\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
